@@ -1,7 +1,7 @@
 <div align="center">
 
 <div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=seoyeon&show_icons=true&theme=onedark" />
+<!--   <img align="right" src="https://github-readme-stats.vercel.app/api?username=seoyeon&show_icons=true&theme=onedark" /> -->
   <div align="left">
       <h3>👋🏻 안녕하세요! 프론트엔드 개발자 장서연입니다!</h3>
       <p>저는 사용자 친화적이고 인터랙티브한 웹 애플리케이션을 만드는 데 열정을 가진 프론트엔드 개발자입니다.</p>
